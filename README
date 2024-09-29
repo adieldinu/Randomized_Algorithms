@@ -1,0 +1,11 @@
+Dinu Eduard-Adiel
+Assignment 1
+
+Instructions to run:
+
+The simulation is run by the function simulate(n,N) where n is the number of levels and N is the number of balls. To run with a specific parameter config, line 80 needs to be changed to simulate('desired n', 'desired N') and then in the terminal run the command:
+$ python galton.py
+
+or
+
+$ python3 galton.py
